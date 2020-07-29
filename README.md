@@ -44,7 +44,6 @@ Here Is Live Version Of Bot  [Google Drive Uploader](http://telegram.dog/koorana
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Originally Created by Aryan Vikash at https://github.com/aryanvikash/Google-Drive-Uploader
 
-### Licence
-  - GPLv3
+
+
