@@ -21,12 +21,7 @@ Here Is Live Version Of Bot  [Google Drive Uploader](http://telegram.dog/koorana
 ## Requirements
   - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
   - Telegram Bot Token (Using BotFather)  `Required`
-  - Open load ftp login and Key  `Optional`
-  - Mega Email and Password  `Optional`
-
- ` If You  wanna Change Openload Api and Mega Email Password You Can Change it From Given Path`
-   - Mega => Plugins > TEXT.py
-   - Open load  => Plugins > dlopenload.py
+  - 
 
 ## Setup Your Own Bot
   - Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download its json
