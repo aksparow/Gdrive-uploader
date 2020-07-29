@@ -2,7 +2,7 @@
 
 # Upload to Google Drive Bot
 
-Here Is Live Version Of Bot  [U2GD_Bot](http://telegram.dog/U2GD_Bot)
+Here Is Live Version Of Bot  [Google Drive Uploader](http://telegram.dog/kooranayibot)
 
 ### How Can We Use It
   - First authorize Bot Using `/auth` command Generate a Key and send it To bot .
