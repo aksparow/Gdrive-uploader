@@ -16,9 +16,7 @@ Here Is Live Version Of Bot  [Google Drive Uploader](http://telegram.dog/koorana
 
 ## Supported Links :
  - Direct Link
- - Mega.nz Link
- - Open load link (disabled)
- - Dropbox Link
+
 
 ## Requirements
   - [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (Others type)  `Required`
